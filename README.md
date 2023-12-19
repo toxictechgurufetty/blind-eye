@@ -1,2 +1,2 @@
 # blind-eye
-Woring  on  Gemini
+Working  on  Gemini
